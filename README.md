@@ -38,7 +38,7 @@
 
 1. Clone the Repository
 
-   git clone https://github.com/yourusername/Employee-Management-System-v1.git
+   git clone https://github.com/CEOAntar/Employee-Management-System-v1.git
 
 2. Navigate to the Project Directory
 	
