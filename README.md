@@ -85,6 +85,38 @@ Enter your choice:
     .Use more advanced data structures for better performance and flexibility.
 
 
+### Version 2 Updates
+
+- Modular Design  
+  - Separate functions for adding, deleting, displaying, and updating employee records.
+  - Improved menu with structured user choice validation.
+
+- Fixed Issues  
+  - Refined "Delete by Age" feature with enhanced data shifting to prevent errors during record deletions.
+
+- Enhanced User Experience  
+  - Clearer input prompts and validation checks for better user interaction.
+
+Features
+
+1. Add Employee: Capture new employee details, including name, age, salary, and gender.
+2. Display All Employees: Retrieve and display all employee records.
+3. Delete by Age: Remove employees within a specified age range.
+4. Update Salary: Modify an employee’s salary by searching for their name.
+5. Modular Code Structure: Organized using functions to promote reusability and readability.
+
+Learning Outcomes
+
+This project provided hands-on experience in:
+- Code Modularity: Organizing functionality into distinct functions for clarity.
+- Handling Edge Cases: Managing potential issues during record deletion and data shifting.
+- Iterative Improvement: Understanding the impact of code refinement on usability and structure.
+
+Technologies Used
+
+- Language: C++
+- Platform: Console Application
+
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
